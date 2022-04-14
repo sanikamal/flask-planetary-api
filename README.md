@@ -1,6 +1,5 @@
 # Planetary API
 Flask API Starter Kit
-
 ## Setup
 
 Execute the following commands:
