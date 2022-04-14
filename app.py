@@ -16,8 +16,8 @@ app.config['JWT_SECRET_KEY'] = 'easy-secret'
 # app.config['MAIL_PASSWORD'] = os.environ['MAIL_PASSWORD']
 app.config['MAIL_SERVER'] = 'smtp.mailtrap.io'
 app.config['MAIL_PORT'] = 2525
-app.config['MAIL_USERNAME'] = '7721fd48e4b402'
-app.config['MAIL_PASSWORD'] = '7e935e8d48f747'
+app.config['MAIL_USERNAME'] = 'username'
+app.config['MAIL_PASSWORD'] = 'password'
 app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USE_SSL'] = False
 
